@@ -1,4 +1,4 @@
-package queqeexample;
+package com.jee.d11112021.queue;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

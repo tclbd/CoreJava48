@@ -1,4 +1,4 @@
-package threadnew;
+package com.jee.d11112021.serialize;
 
 public class ThreadTest extends Thread {
 

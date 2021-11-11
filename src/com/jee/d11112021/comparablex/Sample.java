@@ -1,4 +1,4 @@
-package collectionexample.comparablex;
+package com.jee.d11112021.comparablex;
 
 import java.util.*;
 /*Comparable interface is used to order the objects of user-defined class.

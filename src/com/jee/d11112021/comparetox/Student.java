@@ -1,5 +1,5 @@
 
-package collectionexample.comparetox;
+package com.jee.d11112021.comparetox;
 
 
 public class Student{

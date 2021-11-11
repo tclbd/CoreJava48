@@ -1,4 +1,4 @@
-package collectionexample.comparetox;
+package com.jee.d11112021.comparetox;
 
 import java.util.*;
 /* Comparator interface is used to order the objects of user-defined class. 

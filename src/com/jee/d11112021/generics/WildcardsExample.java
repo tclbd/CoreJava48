@@ -1,4 +1,4 @@
-package generics_ex;
+package com.jee.d11112021.generics;
 
 import java.util.ArrayList;
 import java.util.List;

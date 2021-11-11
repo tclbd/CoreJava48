@@ -1,4 +1,4 @@
-package queqeexample;
+package com.jee.d11112021.queue;
 
 public class CharToAscii {
     public static void main(String[] args) {

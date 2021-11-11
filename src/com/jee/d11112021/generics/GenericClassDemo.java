@@ -3,7 +3,7 @@
  * These classes are known as parameterized classes or parameterized 
  * types because they accept one or more parameters.
  */
-package generics_ex;
+package com.jee.d11112021.generics;
 
 public class GenericClassDemo<T> {
 

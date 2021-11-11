@@ -1,5 +1,5 @@
 
-package collectionexample.comparablex;
+package com.jee.d11112021.comparablex;
 
 public class Student implements Comparable {
 

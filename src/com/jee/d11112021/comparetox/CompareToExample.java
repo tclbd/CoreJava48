@@ -1,4 +1,4 @@
-package collectionexample.comparetox;
+package com.jee.d11112021.comparetox;
 /*The method compareTo() is used for comparing two strings lexicographically. 
  * Each character of both the strings is converted into a 
  * Unicode value for comparison. If both the strings are equal 

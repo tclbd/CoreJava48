@@ -1,4 +1,4 @@
-package serializeexample;
+package com.jee.d11112021.serialize;
 
 import java.io.Serializable;
 
