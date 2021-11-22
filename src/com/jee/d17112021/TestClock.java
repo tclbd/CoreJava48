@@ -8,7 +8,7 @@ public class TestClock extends Thread{
         Thread tock = new Thread(new Tock());
         tick.start();
         tock.start();
-        tick.join();
+        tick.join(); 
         tock.join();
     }
 }

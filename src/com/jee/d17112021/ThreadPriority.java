@@ -1,5 +1,5 @@
 package com.jee.d17112021;
-/*Each thread have a priority. Priorities are represented by a number 
+/*Each thread has a priority. Priorities are represented by a number 
  * between 1 and 10. In most cases, thread schedular schedules the 
  * threads according to their priority (known as preemptive scheduling). 
  * But it is not guaranteed because it depends on JVM specification 
@@ -11,8 +11,8 @@ public class ThreadPriority {
         m1.setName("T1");
         T2 m2 = new T2();
         m2.setName("T2");
-        //m1.setPriority(Thread.MIN_PRIORITY);
-        m2.setPriority(Thread.MAX_PRIORITY);
+        m2.setPriority(10);
+        m1.setPriority(Thread.MAX_PRIORITY);
         m1.start();
         m2.start();
     }

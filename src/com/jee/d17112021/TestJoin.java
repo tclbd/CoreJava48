@@ -12,6 +12,8 @@ public class TestJoin implements Runnable {
             t.join();
 //            Thread.yield();
             System.out.println("Complete");
+            
+            //System.out.println("new call");
         } catch (Exception ex) {
             System.err.print(ex);
         }
@@ -20,7 +22,7 @@ public class TestJoin implements Runnable {
 
     @Override
     public void run() {
-        //System.out.println("Running...");
+        System.out.println("Running...");
         for (int i = 0; i < 10; i++) {
             try {
                 System.out.println(i);
